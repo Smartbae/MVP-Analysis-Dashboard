@@ -7,7 +7,7 @@
 - [Key Insights](#key-insights) 
 
 ### Project Overview
-This project aims at tracking the location where first timers (MVP) comes from frequently and project also identify the best invitee and invitation process.
+This project aims at tracking the location where first timers (MVP) comes from frequently and this project also identifies the best inviter and invitation process.
 ### Objectives
 - Most frequent location where new members come from.
 - The best inviter.
