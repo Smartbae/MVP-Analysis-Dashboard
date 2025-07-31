@@ -5,9 +5,9 @@
 - [Process](#process)
 - [Tools](#tools)
 - [Key Insights](#key-insights)
-<img width="1176" height="659" alt="image" src="https://github.com/user-attachments/assets/a89a2e07-41d9-4662-802c-bc85fe7cf231" />
-  
+<img width="1181" height="671" alt="image" src="https://github.com/user-attachments/assets/ce750e77-18c7-40f4-897c-5e51a2571605" />
 
+  
 ### Project Overview
 This project aims at tracking the location where first timers (MVP) comes from frequently and this project also identifies the best inviter and invitation process.
 ### Objectives
